@@ -109,9 +109,9 @@ ul {
 	list-style: none;
 }
 ul li, ol ul li {
-	padding-left: 36px;
+	/* padding-left: 36px; */
 	/*background: url(images/li.jpg) no-repeat 0px 14px;*/
-	margin-bottom: 14px;
+	/* margin-bottom: 14px; */
 }
 ol {
 	margin-left: 30px;
@@ -121,7 +121,7 @@ ol li {
   margin-bottom: 15px;
 }
 img {
-	max-width: 100%;
+	/* max-width: 100%; */
 }
 strong, b {
 	display: block;
